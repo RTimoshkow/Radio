@@ -1,0 +1,8 @@
+choosing a very large negative value, -100, 0
+choosing minimum negative value, -1, 0
+choosing zero value, 0, 1
+choosing minimum positive value, 1, 2
+choosing value before the upper bound, 9, 10
+choosing maximum allowable value, 10, 10
+choosing value beyond the upper limit, 11, 0
+choosing very value, 100, 0

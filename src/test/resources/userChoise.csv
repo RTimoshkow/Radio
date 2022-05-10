@@ -1,0 +1,8 @@
+user selected a large negative value, -100,0
+user selected a negative value, -1, 0
+user selected a zero value, 0, 0
+user selected the first positive value, 1, 1
+user selected the value before the upper bound, 8, 8
+user selected the maximum value, 9, 9
+user has gone beyond the upper value, 10, 0
+user selected a very large number, 100, 0
